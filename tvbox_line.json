@@ -1252,10 +1252,6 @@
         "url": "https://duo.codered.cloud/iduo.json"
     },
     {
-        "name": "00",
-        "url": "https://dxawi.github.io/0/0.json"
-    },
-    {
         "name": "🚀6-FongMI线路",
         "url": "https://fastly.jsdelivr.net/gh//gaotianliuyun/gao/master/0827.json"
     },
@@ -7208,72 +7204,56 @@
         "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json"
     },
     {
-        "name": "🚀香雅情线",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
-    },
-    {
-        "name": "🚀高天流云",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-    },
-    {
         "name": "业余",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf@main/yydf/yydfjk.json"
-    },
-    {
-        "name": "💧高山流水",
-        "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+        "url": "https://fastly.jsdelivr.net/gh/yydfys/yydf@main/yydf/yydfjk.json"
     },
     {
         "name": "备用1",
-        "url": "https://gh.aptv.app/https://raw.githubusercontent.com/yoursmile66/TVBox@main/XC.json"
+        "url": "https://fastly.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json"
     },
     {
         "name": "🐌蜗牛弹幕②🚀",
-        "url": "https://gh.sixyin.com/https://raw.githubusercontent.com/woniuxs/BoxDM@main/fty.json"
+        "url": "https://fastly.jsdelivr.net/gh/woniuxs/BoxDM@main/fty.json"
     },
     {
         "name": "🐌蜗牛备用①线路",
-        "url": "https://gh.sixyin.com/https://raw.githubusercontent.com/woniuxs/BoxYS@main/tv.json"
+        "url": "https://fastly.jsdelivr.net/gh/woniuxs/BoxYS@main/tv.json"
     },
     {
         "name": "🐾js接口",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/Vivo-Max/drpy-js@main/js.json"
+        "url": "https://fastly.jsdelivr.net/gh/Vivo-Max/drpy-js@main/js.json"
     },
     {
         "name": "宝盒VIP",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH@main/vip2.json"
+        "url": "https://fastly.jsdelivr.net/gh/guot55/YGBH@main/vip2.json"
     },
     {
         "name": "🌹爱TV主接口",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV@main/video/tv4k.json"
+        "url": "https://fastly.jsdelivr.net/gh/pdscxz/TV@main/video/tv4k.json"
     },
     {
         "name": "🐯时光1",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/shiguang@main/shiguangdx.json"
+        "url": "https://fastly.jsdelivr.net/gh/xmbjm/shiguang@main/shiguangdx.json"
     },
     {
         "name": "🐯时光2",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm@main/xmbjm.json"
+        "url": "https://fastly.jsdelivr.net/gh/xmbjm/xmbjm@main/xmbjm.json"
     },
     {
         "name": "💝飘花",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/zhixc/CatVodTVSpider@main/json/tvbox_config.json"
+        "url": "https://fastly.jsdelivr.net/gh/zhixc/CatVodTVSpider@main/json/tvbox_config.json"
     },
     {
         "name": "🍷 FongMi",
-        "url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider@main/json/config.json"
-    },
-    {
-        "name": "路飞",
-        "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lf.json"
+        "url": "https://fastly.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/config.json"
     },
     {
         "name": "PizazzGY❤心动仓库",
-        "url": "https://ghps.cc/http://raw.githubusercontent.com/PizazzGY/TVBox@main/api.json"
+        "url": "https://fastly.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json"
     },
     {
         "name": "陆哥数码：🍑心动单仓",
-        "url": "https://ghps.cc/https://raw.githubusercontent.com/HeChengChaXiu/tvbox@main/hccx.json"
+        "url": "https://fastly.jsdelivr.net/gh/HeChengChaXiu/tvbox@main/hccx.json"
     },
     {
         "name": "🏇┃湯┃影視(极狐)",
@@ -7689,7 +7669,7 @@
     },
     {
         "name": "PizazzGY📚拾光仓库",
-        "url": "https://mirror.ghproxy.com/https://github.com/PizazzGY/TVBox/blob@main/api.json"
+        "url": "https://fastly.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json"
     },
     {
         "name": "IKTV",
@@ -7768,112 +7748,16 @@
         "url": "https://qu.ax/uanw.json"
     },
     {
-        "name": "夜猫子",
-        "url": "https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ"
-    },
-    {
-        "name": "️夜猫",
-        "url": "https://raw.gitcode.com/Xymz/ymz/blobs/daf2a0b4b029cb681d788e30924c0a417e2d1e9a/夜猫子"
-    },
-    {
-        "name": "晨瑞黑科",
-        "url": "https://raw.gitcode.com/chenrui007/test/raw@main/影视-只适合年轻人"
-    },
-    {
-        "name": "晨瑞黑科",
-        "url": "https://raw.gitcode.com/chenrui007/test/raw@main/影视-适合全部人群"
-    },
-    {
-        "name": "纽特帅01",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/001.json"
-    },
-    {
-        "name": "纽特帅02",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/002.json"
-    },
-    {
-        "name": "纽特帅03",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/003.json"
-    },
-    {
-        "name": "纽特帅04",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/004.json"
-    },
-    {
-        "name": "纽特帅05",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/005.json"
-    },
-    {
-        "name": "纽特帅06",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/006.json"
-    },
-    {
-        "name": "纽特帅07",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/007.json"
-    },
-    {
-        "name": "纽特帅08",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/008.json"
-    },
-    {
-        "name": "纽特帅09",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/009.json"
-    },
-    {
-        "name": "纽特帅10",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/010.json"
-    },
-    {
-        "name": "纽特帅11",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/011.json"
-    },
-    {
-        "name": "纽特帅12",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/012.json"
-    },
-    {
-        "name": "纽特帅13",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/013.json"
-    },
-    {
-        "name": "纽特帅14",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/014.json"
-    },
-    {
-        "name": "纽特帅15",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/015.json"
-    },
-    {
-        "name": "纽特帅16",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/016.json"
-    },
-    {
-        "name": "纽特帅17",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/017.json"
-    },
-    {
-        "name": "纽特帅18",
-        "url": "https://raw.gitcode.com/newtxin/shuai/raw@main/018.json"
-    },
-    {
-        "name": "陆哥数码：🍫大全备用👇",
-        "url": "https://raw.gitcode.com/njyy/nj/raw/master/520.json"
-    },
-    {
         "name": "追风在线🇨🇳主力🎄",
-        "url": "https://raw.githubusercontent.com/raw.githubusercontent.com/SJRJwl/tv@main/jsm.json"
+        "url": "https://fastly.jsdelivr.net/gh/SJRJwl/tv@main/jsm.json"
     },
     {
         "name": "追风在线🧨备用🎱",
-        "url": "https://raw.githubusercontent.com/raw.githubusercontent.com/SJRJwl/tv@main/jsm1.json"
+        "url": "https://fastly.jsdelivr.net/gh/SJRJwl/tv@main/jsm1.json"
     },
     {
         "name": "追风在线🌹绿茶🍀",
-        "url": "https://raw.githubusercontent.com/raw.githubusercontent.com/SJRJwl/tv@main/lvcha.json"
-    },
-    {
-        "name": "🇨🇳🉑❤️拾光畅谈📚多仓",
-        "url": "https://raw.githubusercontent.com/xmbjm/xmbjm@main/xmbjmdc.json"
+        "url": "https://fastly.jsdelivr.net/gh/SJRJwl/tv@main/lvcha.json"
     },
     {
         "name": "🤺高天流云",
@@ -8033,7 +7917,7 @@
     },
     {
         "name": "🐱月光宝盒104",
-        "url": "https://usercontent.githubfast.com/raw/guot55/YGBH@main/vip2.json"
+        "url": "https://fastly.jsdelivr.net/gh/guot55/YGBH@main/vip2.json"
     },
     {
         "name": "少泽",
