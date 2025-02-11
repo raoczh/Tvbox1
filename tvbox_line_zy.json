@@ -1,6 +1,8 @@
 {
   "urls":[
-    "name": "自用集合",
-    "url": "https://fastly.jsdelivr.net/gh/raoczh/Tvbox1@main/zy.json"
+    {
+      "name": "自用集合",
+      "url": "https://fastly.jsdelivr.net/gh/raoczh/Tvbox1@main/zy.json"
+    }
   ]
 }
